@@ -1,0 +1,8 @@
+package com.somya.resfulwebservices.todo;
+
+import java.util.ArrayList;
+
+public class TodoHardcodedService {
+
+	private static List<Todo> todos=new ArrayList();
+}
